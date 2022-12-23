@@ -11,4 +11,4 @@ Author: K.Janarthanan
 To use this script, specify the KB number of the update that you want to install in the KBNumber variable. Then, run the script using the PowerShell command line or by double-clicking on the script file.
 
 ## Blog 
-
+https://scripting4ever.wordpress.com/2022/12/23/installing-and-validating-a-hotfixkb-in-windows-machine-using-powershell/
